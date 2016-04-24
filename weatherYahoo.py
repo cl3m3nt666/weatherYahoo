@@ -4,7 +4,7 @@
 """
  Search weather from Yahoo ! Sample weather script
 
- || Mainteneur : cl3m3nt - http://github.com/cl3m3nt666
+ || MAINTAINER : cl3m3nt - http://github.com/cl3m3nt666
 """
 
 #Example Json read
